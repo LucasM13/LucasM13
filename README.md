@@ -3,7 +3,7 @@
 
 <div>
 <h4 align="left">
-   Atualmente estou cursando meu primeiro período em Ciência da Computação na Una Contagem.
+   Atualmente estou cursando o primeiro período em Ciência da Computação na Una Contagem.
         </div>
 
 <br>
