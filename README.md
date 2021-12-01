@@ -5,9 +5,8 @@
 <h4 align="left">
    Atualmente estou cursando o primeiro período em Ciência da Computação na Una Contagem.
         </div>
-
-<br>
-<br>
+   
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasM13&show_icons=true&theme=dracula&count_private=true)
 
 <p align="center">
 <a href="mailto:lucas.mar17ques@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
